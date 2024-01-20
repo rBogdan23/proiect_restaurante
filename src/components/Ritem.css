@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    align-items: left;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-left: 40px;
+  }
+  
+  .image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 15px;
+  }
+  .restaurant-image{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 15px;
+  }
+  
+  .denumire_adresa {
+    flex-grow: 1;
+  }
+  .denumire{
+    font-size: x-large;
+    font-style: italic;
+}
+.adresa{
+    color: rgb(97, 95, 95);
+}
+  
+  h1{
+    margin-left: 50px;
+  }
