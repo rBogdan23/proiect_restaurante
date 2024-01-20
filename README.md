@@ -13,4 +13,4 @@ To start the server you can run:
 ### `node server.js`
 
 Descriere Proiect
-Proiectul `Manager de Restaurante Integrat cu Google Maps` este o aplicație web cu funcționalități pentru gestionarea eficientă a restaurantelor, integrate cu serviciul Google Maps pentru a oferi o experiență de localizare și navigare îmbunătățită.
+Proiectul `Manager de Restaurante Integrat cu Google Maps` este o aplicație web realizată cu: React, JavaScript, Node.js, Express.js, SQLite, HTML, CSS, cu funcționalități pentru gestionarea eficientă a restaurantelor, integrate cu serviciul Google Maps pentru a oferi o experiență de localizare și navigare îmbunătățită.
